@@ -19,7 +19,7 @@ By Speech Recognition the required task process through voice commands, AI-drive
 
 ![All system ](https://github.com/NihalMishraa/codee/blob/main/all%20system.jpg)
 ![Face Recognition](https://github.com/NihalMishraa/codee/blob/main/face%20reco.jpg)
-![rec verification](https://github.com/NihalMishraa/codee/blob/main/face%20verfi.jpg)
+![rec verification]((https://github.com/NihalMishraa/codee/blob/main/rco%20reco.jpg))
 
 ## Demo
 
